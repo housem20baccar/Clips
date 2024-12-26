@@ -83,3 +83,8 @@ The system includes several key rules:
 ## Note
 
 The system automatically maintains consistency between professor assignments and knowledge relationships. When a professor is assigned to a course, the system will automatically generate the corresponding knowledge facts based on the course sections they cover.
+![Screenshot 2024-12-26 212823](https://github.com/user-attachments/assets/90a3ff3c-c1f9-4c86-b2ca-c41ddd3f4d2b)
+![Screenshot 2024-12-26 212733](https://github.com/user-attachments/assets/1cd4a5f8-65bf-46da-9c4e-499bd37e63c5)
+![Screenshot 2024-12-26 212640](https://github.com/user-attachments/assets/daa1aa99-d8f6-4815-a46e-ca9f669adfc1)
+
+
